@@ -50,3 +50,5 @@ for x in a:
 
 txt = "The best things in life are free!"
 print("free" in txt)
+
+print("expensive" not in txt)
